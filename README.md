@@ -16,12 +16,12 @@ This repository contains my work on **Human Activity Recognition (HAR)** using d
 
 
 ## Repository Structure  
-├── UCI_HAR_CNN.ipynb # CNN model training & evaluation on UCI-HAR dataset
-├── WISDM_Arin_Work.ipynb # CNN model training & evaluation on WISDM dataset
-├── Pamap2(5_models).ipynb # Multiple CNN models trained on PAMAP2 dataset
-├── 2D_CNN_HAR(Arin).ipynb # Custom CNN architecture for HAR
-├── predict_log.ipynb # Prediction pipeline with logging functionality
-├── README.md # Project documentation
+├── UCI_HAR_CNN.ipynb # CNN model training & evaluation on UCI-HAR dataset.
+├── WISDM_Arin_Work.ipynb # CNN model training & evaluation on WISDM dataset.
+├── Pamap2(5_models).ipynb # Multiple CNN models trained on PAMAP2 dataset.
+├── 2D_CNN_HAR(Arin).ipynb # Custom CNN architecture for HAR.
+├── predict_log.ipynb # Prediction pipeline with logging functionality.
+├── README.md # Project documentation.
 
 ## Features  
 - Custom **CNN-based HAR architecture**.  
